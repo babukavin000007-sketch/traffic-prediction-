@@ -1,0 +1,7 @@
+{
+  "name": "Namma Traffic - Bengaluru Traffic Predictor",
+  "description": "An advanced AI-powered traffic prediction and monitoring dashboard for Bengaluru, leveraging Gemini 2.5/3 with Google Search and Maps grounding for real-time insights.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
